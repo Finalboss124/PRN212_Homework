@@ -1,0 +1,14 @@
+D:\PRN212\Week4\HW2\HW2\bin\Debug\net8.0\HW2.exe
+D:\PRN212\Week4\HW2\HW2\bin\Debug\net8.0\HW2.deps.json
+D:\PRN212\Week4\HW2\HW2\bin\Debug\net8.0\HW2.runtimeconfig.json
+D:\PRN212\Week4\HW2\HW2\bin\Debug\net8.0\HW2.dll
+D:\PRN212\Week4\HW2\HW2\bin\Debug\net8.0\HW2.pdb
+D:\PRN212\Week4\HW2\HW2\obj\Debug\net8.0\HW2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Week4\HW2\HW2\obj\Debug\net8.0\HW2.AssemblyInfoInputs.cache
+D:\PRN212\Week4\HW2\HW2\obj\Debug\net8.0\HW2.AssemblyInfo.cs
+D:\PRN212\Week4\HW2\HW2\obj\Debug\net8.0\HW2.csproj.CoreCompileInputs.cache
+D:\PRN212\Week4\HW2\HW2\obj\Debug\net8.0\HW2.dll
+D:\PRN212\Week4\HW2\HW2\obj\Debug\net8.0\refint\HW2.dll
+D:\PRN212\Week4\HW2\HW2\obj\Debug\net8.0\HW2.pdb
+D:\PRN212\Week4\HW2\HW2\obj\Debug\net8.0\HW2.genruntimeconfig.cache
+D:\PRN212\Week4\HW2\HW2\obj\Debug\net8.0\ref\HW2.dll
